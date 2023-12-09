@@ -1,7 +1,5 @@
 # ChatGPT Lite
 
-English | [简体中文](./README.zh-CN.md)
-
 ## Demo
 
 Visit the [ChatGPT Lite Demo Site](https://bit.ly/chatgpt-lite)
