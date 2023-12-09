@@ -14,7 +14,7 @@ export const DefaultPersonas: Persona[] = [
   {
     id: 'chatgpt',
     role: 'system',
-    name: 'ChatGPT',
+    name: 'Trancend.Ai',
     prompt: 'You are an AI assistant that helps people find information.',
     isDefault: true
   },

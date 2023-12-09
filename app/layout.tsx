@@ -8,7 +8,7 @@ import '@/styles/theme-config.css'
 
 export const metadata = {
   title: {
-    default: 'ChatGPT Lite',
+    default: 'Trancend.Ai',
     template: `%s - ChatGPT Lite`
   },
   description: 'AI assistant powered by ChatGPT',
